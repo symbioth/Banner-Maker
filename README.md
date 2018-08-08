@@ -1,4 +1,4 @@
-# Vue + Canvas
+# Vue + Quasar Framework + Canvas
 
 This project provides the ability to create posters. Change text, pictures, styles. 
 Create your own post design. Change text styles, color, fonts.
